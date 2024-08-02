@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NEET Question Encryptor</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>NEET Question Encryptor</h1>
+        <form id="question-form">
+            <label for="question">Enter your question:</label>
+            <textarea id="question" name="question" rows="4" required></textarea>
+            <button type="submit">Encrypt Question</button>
+        </form>
+        <div id="encrypted-question">
+            <h2>Encrypted Question:</h2>
+            <p id="output"></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
