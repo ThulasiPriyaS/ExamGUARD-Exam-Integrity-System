@@ -13,12 +13,6 @@ The NEET Question Encryptor is a blockchain-based project designed to securely e
 - **Encryption:** Questions are encrypted using a specified encryption method.
 - **Blockchain Integration:** Encrypted questions are stored on a blockchain for secure and tamper-proof storage.
 
-## Technologies Used
-
-- **Blockchain:** [Specify the blockchain platform you are using, e.g., Ethereum, Hyperledger]
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Encryption:** [Specify the encryption algorithm used, e.g., AES, RSA]
-
 ## Setup
 
 ### Prerequisites
