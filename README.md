@@ -50,16 +50,6 @@ The NEET Question Encryptor is a blockchain-based project designed to securely e
 2. Enter the NEET exam question in the provided text area.
 3. Click the "Encrypt Question" button to get the encrypted version of the question.
 
-## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request with your changes.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Contact
-
-For any inquiries or issues, please contact [your-email@example.com].
 
  
