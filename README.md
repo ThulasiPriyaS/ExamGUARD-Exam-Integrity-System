@@ -1,15 +1,15 @@
-# NEET Question Encryptor
+# Exam Question Encryptor
 
 ## Overview
 
-The NEET Question Encryptor is a blockchain-based project designed to securely encrypt NEET exam questions. The system allows multiple teachers to input exam questions through a web interface, which are then encrypted and stored using blockchain technology. This project ensures that the questions remain confidential and tamper-proof.
+The Exam Question Encryptor is a blockchain-based project designed to securely encrypt exam questions. The system allows multiple teachers to input exam questions through a web interface, which are then encrypted and stored using blockchain technology. This project ensures that the questions remain confidential and tamper-proof.
 
 ## Project Structure
 
 
 ## Features
 
-- **Question Input:** Teachers can input NEET exam questions through a web interface.
+- **Question Input:** Teachers can input exam questions through a web interface.
 - **Encryption:** Questions are encrypted using a specified encryption method.
 - **Blockchain Integration:** Encrypted questions are stored on a blockchain for secure and tamper-proof storage.
 
@@ -47,7 +47,7 @@ The NEET Question Encryptor is a blockchain-based project designed to securely e
 ## Usage
 
 1. Navigate to the web interface in your browser.
-2. Enter the NEET exam question in the provided text area.
+2. Enter the exam question in the provided text area.
 3. Click the "Encrypt Question" button to get the encrypted version of the question.
 
 
